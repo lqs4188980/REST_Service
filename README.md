@@ -1,4 +1,4 @@
-REST_Service
+REST Service
 ============
 
 Simple REST service using Jersey
